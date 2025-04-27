@@ -23,6 +23,9 @@ morgan create book-reviews.html file added random text and push it.
 morgan raise pull request
 ![morgan raise pr](./images/morgan-pr.png)
 
+morgan add reason for the pull request to enhance collaboration
+![reason for pull request](./images/morgan-describe-pr.png)
+
 morgan pull request is merged to main
 
 ![merge successful](./images/morgan-pr-merge-successful.png)
@@ -39,6 +42,10 @@ jaime create update the events.html file and push changes to github.
 
 jaime raise pull request
 ![jaime raise pr](./images/create-pr-for-jamie.png)
+
+Jaime create description to tell team members why the changes was necessary.
+
+![jaime description](./images/jamie-create-description.png)
 
 jaime pull request is merged to main
 
